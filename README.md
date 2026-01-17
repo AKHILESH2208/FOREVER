@@ -1,7 +1,6 @@
 🛍️ FOREVER – Full‑Stack E‑Commerce Platform
 A modern, full‑stack e‑commerce website built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Features secure authentication, role‑based access control, product management, and a seamless checkout experience.
 
-Live Demo: [Add deployment URL if deployed]
 GitHub: https://github.com/AKHILESH2208/FOREVER
 
 ✨ Features
